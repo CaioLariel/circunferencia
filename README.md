@@ -1,5 +1,5 @@
-# circunferencia
-Introducing the Circumference, ccc, the essential tool for performing accurate calculations related to circles and circular geometry. Whether you are a student, engineer, architect or anyone who needs to determine circumferences, radii and diameters, our calculator is the complete solution for your needs.
+# Circumference,Radius and Diameter Calculator
+Introducing the Circumference,Radius and Diameter Calculator, the essential tool for performing accurate calculations related to circles and circular geometry. Whether you are a student, engineer, architect or anyone who needs to determine circumferences, radii and diameters, our calculator is the complete solution for your needs.
 With the Circumference, Radius and Diameter Calculator, you can perform a variety of calculations quickly. Just enter one of the values ​​(circumference, radius or diameter) and the calculator will automatically provide the corresponding values. Additionally, the calculator is flexible enough to allow you to calculate either value from the other two, making it a versatile tool for solving geometric problems.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
